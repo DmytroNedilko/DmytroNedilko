@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @DmytroNedilko
+- 👀 I’m interested in back-end development using JavaScript/TypeScript and Node.js
+- 🌱 I’m currently learning advanced concepts of software engineering
+- 📫 How to reach me :
+- 📧 [E-mail](mailto:dmytro.nedilko15@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dnedilko/)
+- 📨 [Telegram](https://t.me/DmytroNedilko)
